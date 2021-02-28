@@ -4,9 +4,9 @@ inflearn
 ##PHP 기초
 
 - [x]   수업소개
-- [ ]   MySQL의 client로서 PHP
-- [ ]   나에게 필요한 PHP MySQL API 찾기
-- [ ]   PHP와 MySQL의 연동과 INSERT
+- [x]   MySQL의 client로서 PHP
+- [x]   나에게 필요한 PHP MySQL API 찾기
+- [x]   PHP와 MySQL의 연동과 INSERT
 - [ ]   활용 - 글생성
 - [ ]   PHP와 MySQL의 연동과 SELECT
 - [ ]   활용-글읽기
