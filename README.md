@@ -9,7 +9,7 @@ inflearn
 - [x]   PHP와 MySQL의 연동과 INSERT
 - [x]   활용 - 글생성
 - [x]   PHP와 MySQL의 연동과 SELECT
-- [ ]   활용-글읽기
+- [x]   활용-글읽기
 - [ ]   PHP & MySQL 보안
 - [ ]   활용 - 글 수정
 - [ ]   활용 - 글삭제
