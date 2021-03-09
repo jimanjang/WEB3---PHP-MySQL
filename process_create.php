@@ -4,6 +4,12 @@ $conn = mysqli_connect(
   'root',
   '111111',
   'opentutorials');
+
+$filterd = array(
+    'title' => mysqli_real_escape_string($conn, $_POST['title']);
+    'description' => mysqli_real_escape_string($conn, $_POST['description']);
+);
+
 $sql = "
   INSERT INTO topic
     (title, description, created)
